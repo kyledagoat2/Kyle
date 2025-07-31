@@ -1,0 +1,39 @@
+.body_home {
+    background-color: crimson;
+}
+
+.body_about {
+    background-color: chocolate
+}
+.body_family {
+    background-color: gold
+}
+.title {
+    text-align: center;
+}
+
+.h1-example {
+    text-align: center;
+} 
+
+img {
+    margin: 190px;
+    border-radius: 15px;
+    width: 1000px;
+    height: 400px;
+}
+.button {
+  padding: 10px 20px;
+  border: 2px solid black;  /* This adds the outline */
+  text-decoration: none;
+  color: inherit;           /* Keeps the original text color */
+  background-color: inherit;/* Keeps any background */
+  display: inline-block;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  border-color: blue;       /* Changes outline color on hover */
+}
+
